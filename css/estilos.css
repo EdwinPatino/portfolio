@@ -2,12 +2,12 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
-#contacto{
+#contacto, #index{
     background-image: url("../images/fondo-contacto.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
-#proyectos{
+#proyectos, #sobre-mi{
     background-image: url("../images/fondo-proyectos.png");
     background-repeat: no-repeat;
     background-size: 100%;
@@ -104,6 +104,17 @@ footer .fa-linkedin-in{
     padding: 8px 0 0 0;
     border-radius: 80px;
     margin: 0 8px;
+}
+.footerProyec {
+    color: #e20000;
+}
+.footerProyec .fa-linkedin-in{
+    background-color: #e20000;
+    color: white;
+}
+.footerProyec  .fa-github{
+    font-size: 30px;
+    color: #e20000;
 }
 
 @media (max-width: 750px){
