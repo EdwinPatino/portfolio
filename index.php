@@ -22,16 +22,16 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav me-auto mb-2 mb-md-0">
                         <li class="nav-item">
-                            <a class="nav-link  py-1 px-3 px-sm-4 active" aria-current="page" href="index.html">Inicio</a>
+                            <a class="nav-link  py-1 px-3 px-sm-4 active" aria-current="page" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link  py-1 px-3 px-sm-4" href="sobre-mi.html">Sobre mí</a>
+                            <a class="nav-link  py-1 px-3 px-sm-4" href="sobre-mi.php">Sobre mí</a>
                         </li>
                         <li class="nav-item ">
-                            <a class="nav-link  py-1 px-3 px-sm-4" href="proyectos.html">Proyectos</a>
+                            <a class="nav-link  py-1 px-3 px-sm-4" href="proyectos.php">Proyectos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link py-1 px-3 px-sm-4" href="contacto.html">Contacto</a>
+                            <a class="nav-link py-1 px-3 px-sm-4" href="contacto.php">Contacto</a>
                         </li>
                     </ul>
                     <div class="d-flex">
@@ -45,8 +45,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <a href="proyectos.html">
-                        <img src="images/cohete.svg" alt="Proyectos">
+                    <a href="proyectos.php">
+                        <img src="images/cohete.svg" alt="Proyectos" class="img-fluid">
                     </a>
                 </div>
             </div>
@@ -64,12 +64,12 @@
                 <i class="fa-brands fa-linkedin-in"></i>
             </div>
             <div class="col-12 col-sm-3">Sponsor <a href="https://depcsuite.com">DePC Suite</a></div>
-            <div class="col-12 col-sm-3"><a href="mailto:contacto@nelsontarche.com.ar>">contacto@nelsontarche.com.ar</a></div>
+            <div class="col-12 col-sm-3"><a href="mailto:epatio654@hotmail.com>">epatio654@hotmail.com</a></div>
            
         </div>
     </footer>
     <div class="whatsapp pt-3 pb-4 px-3">
-        <a href="https://api.whatsapp.com/send?phone=541162423341">
+        <a href="https://api.whatsapp.com/send?phone=573102294958">
         <i class="fa-brands fa-whatsapp"></i></a>
     </div>
 </body>
