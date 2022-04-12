@@ -42,17 +42,24 @@
         </nav>
     </header>
     <main>
-        <div class="container">
+        <div class="container tex-center">
             <div class="row">
-                <div class="col-12">
+                <div class="col-12 mt-3 text-center div-cohete">
                     <a href="proyectos.php">
-                        <img src="images/cohete.svg" alt="Proyectos" class="img-fluid">
+                        <img src="images/cohete.svg" alt="Proyectos" class="cohete">
                     </a>
                 </div>
             </div>
             <div class="row">
-                <div class="col-12">
-                    <p>Bienvenid@ a mi sitio web.</p>
+                <div class="col-12 col-sm-6 my-3 mt-sm-5 text-center offset-sm-3">
+                    <div>
+                        <p class="bienvenido p-1">Bienvenid@ a mi sitio web sobre desarrollo.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 text-center">
+                    <a href="proyectos.php" class="btn btn-inicio">Conoce mis proyectos</a>
                 </div>
             </div>
         </div>

@@ -53,6 +53,13 @@ textarea{
 .btn{
     border-radius: 14px;
 }
+.btn-inicio{
+    background-color: white;
+}
+.btn-inicio:hover{
+    background-color: #370a6d;
+    color: white;
+}
 .proyecto{
     border: 1px solid #eee;
     background-color: white;
@@ -116,7 +123,22 @@ footer .fa-linkedin-in{
     font-size: 30px;
     color: #e20000;
 }
-
+.div-cohete{
+    height: 412px;
+}
+.cohete {
+    height: 400px;
+}
+.cohete:hover{
+    height: 412px;
+}
+.bienvenido{
+    color: white;
+    border: 1px solid white;
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: 600;
+}
 @media (max-width: 750px){
     #contacto{
         background-image: url("../images/fondo-proyectos.png");
