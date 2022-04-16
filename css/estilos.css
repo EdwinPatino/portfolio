@@ -139,6 +139,15 @@ footer .fa-linkedin-in{
     font-size: 16px;
     font-weight: 600;
 }
+.foto{
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    margin: 10px;
+    padding: 10px;
+    display: block;
+    background-color: white;
+}
 @media (max-width: 750px){
     #contacto{
         background-image: url("../images/fondo-proyectos.png");

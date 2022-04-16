@@ -42,7 +42,18 @@
         </nav>
     </header>
     <main>
-
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-5 mt-4">
+                    <h1 class="py-2">Sobre mí</h1>
+                    <p class="py-2">Apasionado por la tecnología y gestión de proyectos. Soy docente de cursos de programación Full Stack y de Base de datos.</p>
+                    <a class="btn btn-rojo mt-4" href="contacto.php">Enviar mensaje</a>
+                </div>
+                <div class="col-12 col-sm-3 mt-4 offset-sm-2">
+                    <img src="images/edwin.jpeg" alt="Edwin Patino" class="img-fluid foto">
+                </div>
+            </div>
+        </div>
     </main>
     <footer class="container mt-5 mb-3 footerProyec">
         <div class="row">
