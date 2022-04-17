@@ -23,6 +23,9 @@ h1{
     color: #e20000;
     font-size: 36px;
 }
+h2{
+    font-size: 24px;
+}
 p{
     color: #6a6a6a;
     font-size: 16px;
@@ -148,6 +151,40 @@ footer .fa-linkedin-in{
     display: block;
     background-color: white;
 }
+.tecnologias{
+    background-color: #e20000;
+}
+.tecnologias h2{
+    color: white;
+    font-size: 24px;
+}
+.fondo-tecnologia{
+    background-color: white;
+    border-radius: 5px;
+}
+.stack-tecnologico h3{
+    font-size: 14px;
+    font-weight: 300;
+}
+.stack-tecnologico img{
+    height: 60px;
+}
+.experiencia h2{
+    color: #370a6d;
+}
+.experiencia h3{
+    font-size: 18px;
+    color: #6a6a6a;
+}
+.experiencia h4{
+    font-size: 17px;
+    color: #370a6d;
+}
+.experiencia h5{
+    font-size: 14px;
+    color: #6a6a6a;
+}
+
 @media (max-width: 750px){
     #contacto{
         background-image: url("../images/fondo-proyectos.png");

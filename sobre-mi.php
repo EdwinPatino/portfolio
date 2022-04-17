@@ -50,10 +50,120 @@
                     <a class="btn btn-rojo mt-4" href="contacto.php">Enviar mensaje</a>
                 </div>
                 <div class="col-12 col-sm-3 mt-4 offset-sm-2">
-                    <img src="images/edwin.jpeg" alt="Edwin Patino" class="img-fluid foto">
+                    <img src="images/edwin.jpeg" alt="Edwin Patino" class="img-fluid d-block foto">
                 </div>
             </div>
         </div>
+        <section class="tecnologias pb-4">
+            <div class="container">
+                <div class="row">
+                        <div class="col-12 mt-5 mb-4">
+                            <h2>Stack tecnológico</h2>
+                        </div>
+                    </div>
+                    <div class="row stack-tecnologico">
+                        <div class="col-6 col-sm-2 text-center my-3">
+                            <div class="fondo-tecnologia p-5">
+                                <h3>Javascript</h3>
+                                <img src="images/javascript.jpeg" alt="" class="img-fluid d-block mx-auto">
+                            </div>
+                        </div>
+                        <div class="col-6 col-sm-2 text-center my-3">
+                            <div class="fondo-tecnologia p-5">
+                                <h3>PHP</h3>
+                                <img src="images/php.jpg" alt="" class="img-fluid d-block mx-auto">
+                            </div>
+                        </div>
+                        <div class="col-6 col-sm-2 text-center my-3">
+                            <div class="fondo-tecnologia p-5">
+                                <h3>HTML5</h3>
+                                <img src="images/html5.png" alt="" class="img-fluid d-block mx-auto">
+                            </div>
+                        </div>
+                        <div class="col-6 col-sm-2 text-center my-3">
+                            <div class="fondo-tecnologia p-5">
+                                <h3>React.js</h3>
+                                <img src="images/react.png" alt="" class="img-fluid d-block mx-auto">
+                            </div>
+                        </div>
+                        <div class="col-6 col-sm-2 text-center my-3">
+                            <div class="fondo-tecnologia p-5">
+                                <h3>jQuery</h3>
+                                <img src="images/jquery.jpg" alt="" class="img-fluid d-block mx-auto">
+                            </div>
+                        </div>
+                        <div class="col-6 col-sm-2 text-center my-3">
+                            <div class="fondo-tecnologia p-5">
+                                <h3>Boostrap</h3>
+                                <img src="images/boostrap.png" alt="" class="img-fluid d-block mx-auto">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row stack-tecnologico">
+                        <div class="col-6 col-sm-2 text-center my-3">
+                            <div class="fondo-tecnologia p-5">
+                                <h3>Laravel</h3>
+                                <img src="images/Laravel.svg_.png" alt="" class="img-fluid d-block mx-auto">
+                            </div>
+                        </div>
+                        <div class="col-6 col-sm-2 text-center my-3">
+                            <div class="fondo-tecnologia p-5">
+                                <h3>MySQL</h3>
+                                <img src="images/mariadb.png" alt="" class="img-fluid d-block mx-auto">
+                            </div>
+                        </div>
+                        <div class="col-6 col-sm-2 text-center my-3">
+                            <div class="fondo-tecnologia p-5">
+                                <h3>CSS</h3>
+                                <img src="images/css.png" alt="" class="img-fluid d-block mx-auto">
+                            </div>
+                        </div>
+                        <div class="col-6 col-sm-2 text-center my-3">
+                            <div class="fondo-tecnologia p-5">
+                                <h3>Git</h3>
+                                <img src="images/git.png" alt="" class="img-fluid d-block mx-auto">
+                            </div>
+                        </div>
+                        <div class="col-6 col-sm-2 text-center my-3">
+                            <div class="fondo-tecnologia p-5">
+                                <h3>Apache</h3>
+                                <img src="images/apache.png" alt="" class="img-fluid d-block mx-auto">
+                            </div>
+                        </div>
+                        <div class="col-6 col-sm-2 text-center my-3">
+                            <div class="fondo-tecnologia p-5">
+                                <h3>Mercadopago</h3>
+                                <img src="images/mercadopago.jpg" alt="" class="img-fluid d-block mx-auto">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="experiencia">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 pt-4">
+                        <h2><i class="fa-solid fa-briefcase"></i> Experiencia Laboral</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 col-sm-2 p-5">
+                        <img src="images/bankers2.png" alt="" class="img-fluid d-block">
+                    </div>
+                    <div class="col-12 col-sm-10">
+                        <h3>Ingeniero de soporte</h3>
+                        <h4>Banker's de Colombia</h4>
+                        <h5>2019 - presente</h5>
+                        <p>Soporte a cliente final, solución de fallas de software.
+                        Desarrollo de aplicaciones para revisión de logs de equipos bancarios.
+                        Instalación y mantenimiento de los sistemas operativos de equipos bancarios.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+            
+        
     </main>
     <footer class="container mt-5 mb-3 footerProyec">
         <div class="row">
