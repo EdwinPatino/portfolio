@@ -54,7 +54,7 @@
                 </div>
             </div>
         </div>
-        <section class="tecnologias pb-4">
+        <section id="tecnologias" class="pb-4">
             <div class="container">
                 <div class="row">
                         <div class="col-12 mt-5 mb-4">
@@ -140,26 +140,131 @@
                 </div>
             </div>
         </section>
-        <section class="experiencia">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 pt-4">
-                        <h2><i class="fa-solid fa-briefcase"></i> Experiencia Laboral</h2>
+        <section id="experiencia" class="container">
+            <div class="row">
+                <div class="col-12 pt-5 pb-4">
+                    <h2><i class="fa-solid fa-briefcase"></i> Experiencia Laboral</h2>
+                </div>
+            </div>
+            <div class="row shadow py-3">
+                <div class="col-12">
+                    <div class="row">
+                        <div class="col-12 col-sm-2 p-5">
+                            <img src="images/bankers2.png" alt="" class="img-fluid d-block pt-3">
+                        </div>
+                        <div class="col-12 col-sm-10 p-3">
+                            <h3>Ingeniero de soporte</h3>
+                            <h4>Banker's de Colombia</h4>
+                            <h5>2019 - Actual</h5>
+                            <p>Soporte a cliente final, solución de fallas de software.
+                            Desarrollo de aplicaciones para revisión de logs de equipos bancarios.
+                            Instalación y mantenimiento de los sistemas operativos de equipos bancarios.</p>
+                        </div>
+                    </div>                    
+                </div>
+                <div class="col-12">
+                    <div class="row">
+                        <div class="col-12 col-sm-2 p-5">
+                            <img src="images/Diebold_Nixdorf_Holding_Germany_logo.svg.png" alt="" class="img-fluid d-block pt-3">
+                        </div>
+                        <div class="col-12 col-sm-10 p-3">
+                            <h3>Técnico centro de reparaciones</h3>
+                            <h4>Diebold Nixdorf</h4>
+                            <h5>2016 - 2019</h5>
+                            <p>Mantenimiento de las aplicaciones de cada equipo para un óptimo
+                            funcionamiento. Reparación, instalación y configuración de los sistemas 
+                            operativos de los servidores y cpu's Gestión y elaboración de manuales 
+                            e informes de fallos de los equipos.
+                            </p>
+                        </div>
+                    </div>                    
+                </div>
+                <div class="col-12">
+                    <div class="row">
+                        <div class="col-12 col-sm-2 p-5">
+                            <img src="images/american.png" alt="" class="img-fluid d-block pt-3">
+                        </div>
+                        <div class="col-12 col-sm-10 p-3">
+                            <h3>Auxiliar de tecnólogia</h3>
+                            <h4>American Logistic SA</h4>
+                            <h5>2016 - 2016</h5>
+                            <p>Desarrollo de aplicaciones para uso interno de la compañía.
+                            Evaluar y elaborar planes de mantenimiento de los sistemas operativos y
+                            aplicaciones de computadores y servidores.
+                            </p>
+                        </div>
+                    </div>                    
+                </div>                
+            </div>
+        </section>
+        <section id="formacion" class="container">
+            <div class="row">
+                <div class="col-12 pt-5 pb-4">
+                    <h2><i class="fas fa-graduation-cap"></i> Formación acádémica</h2>
+                </div>
+            </div>
+            <div class="row shadow py-3">
+                <div class="col-12 col-sm-6">
+                    <div class="row">
+                        <div class="col-2 py-3 my-auto d-block">
+                            <img src="images/ecci.png" class="img-fluid">
+                        </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>Ingeniero electrónico</h3>
+                            <h4>Universidad ECCI</h4>
+                            <h5>2012 - 2017</h5>
+                            <p>https://www.ecci.edu.co/</p>
+                        </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-12 col-sm-2 p-5">
-                        <img src="images/bankers2.png" alt="" class="img-fluid d-block">
-                    </div>
-                    <div class="col-12 col-sm-10">
-                        <h3>Ingeniero de soporte</h3>
-                        <h4>Banker's de Colombia</h4>
-                        <h5>2019 - presente</h5>
-                        <p>Soporte a cliente final, solución de fallas de software.
-                        Desarrollo de aplicaciones para revisión de logs de equipos bancarios.
-                        Instalación y mantenimiento de los sistemas operativos de equipos bancarios.</p>
+                <div class="col-12 col-sm-6">
+                    <div class="row">
+                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                            <img src="images/ecci.png" class="img-fluid">
+                        </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>Cooterminal gerencia proyectos</h3>
+                            <h4>Universidad ECCI</h4>
+                            <h5>2017</h5>
+                            <p>https://www.ecci.edu.co/</p>
+                        </div>
                     </div>
                 </div>
+            </div>
+            </div>
+        </section>
+        <section id="formacion" class="container">
+            <div class="row">
+                <div class="col-12 pt-5 pb-4">
+                    <h2><i class="fas fa-graduation-cap"></i> Cursos de desarrollo profesional</h2>
+                </div>
+            </div>
+            <div class="row shadow py-3">
+                <div class="col-12 col-sm-6">
+                    <div class="row">
+                        <div class="col-2 py-3 my-auto d-block">
+                            <img src="images/depc.jpg" class="img-fluid">
+                        </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>Desarrollo full stack</h3>
+                            <h4>DePC suite</h4>
+                            <h5>Actual</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                    <div class="row">
+                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                            <img src="images/uis.png" class="img-fluid">
+                        </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>Desarrollo full stack</h3>
+                            <h4>UIS - Misión TIC</h4>
+                            <h5>Expedición: 2021</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
             </div>
         </section>
             
