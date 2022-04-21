@@ -56,7 +56,7 @@
             <div class="col-12 col-sm-4 p-3 ">
                 <div class="proyecto">
                     <img src="images/abmclientes.png" alt="ABM Clientes" class="img-fluid">
-                    <h2 class="p-3 d-block">ABM Clientes</h2>
+                    <h2 class="p-3 d-block color-gradiente">ABM Clientes</h2>
                     <p class="p-3 pb-5 d-block">Alta, baja y modificación de un registro de clientes. Realizado en HTML, CSS, PHP, Bootstrap y Json.</p>
                     <div class="row my-5">
                         <div class="col-6 ps-4">
@@ -71,7 +71,7 @@
             <div class="col-12 col-sm-4 p-3 ">
                 <div class="proyecto">
                     <img src="images/abmventas.png" alt="ABM Clientes" class="img-fluid">
-                    <h2 class="p-3 d-block">SISTEMA DE GESTIÓN DE VENTAS</h2>
+                    <h2 class="p-3 d-block color-gradiente">SISTEMA DE GESTIÓN DE VENTAS</h2>
                     <p class="p-3 pb-5 d-block">Sistema de gestión de clientes, productos y ventas. Realizado en HTML, CSS, PHP, MVC, Bootstrap, Js, Ajax, jQuery y
                     MySQL de base de datos.</p>
                     <div class="row my-5">
@@ -87,7 +87,7 @@
             <div class="col-12 col-sm-4 p-3 ">
                 <div class="proyecto">
                     <img src="images/proyecto-integrador.png" alt="ABM Clientes" class="img-fluid">
-                    <h2 class="p-3 d-block">PROYECTO INTEGRADOR</h2>
+                    <h2 class="p-3 d-block color-gradiente">PROYECTO INTEGRADOR</h2>
                     <p class="p-3 pb-5 d-block">Proyecto Full Stack desarrollado en PHP, Laravel, Javascript, jQuery, AJAX, HTML, CSS, Mercadopago con panel
                     administrador, gestor de usuarios, módulo de permisos y funcionalidades a fines..</p>
                     <div class="row my-5">

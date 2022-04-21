@@ -54,7 +54,7 @@ textarea{
     color: white;
 }
 .btn{
-    border-radius: 14px;
+    border-radius: 16px !important;
 }
 .btn-inicio{
     background-color: white;
@@ -71,7 +71,7 @@ textarea{
     font-size: 16px;
     color: white;
     text-transform: uppercase;
-    background-color: #e20000;
+    
 }
 .proyecto p{
     font-size: 14px;
@@ -151,8 +151,15 @@ footer .fa-linkedin-in{
     display: block;
     background-color: white;
 }
-#tecnologias{
-    background-color: #e20000;
+
+.color-gradiente{
+    background: rgba(184,37,20,1);
+    background: linear-gradient(
+        90deg,
+        rgba(184,37,20,1) 0%, 
+        rgba(214,52,30,1) 47%, 
+        rgba(240,47,23,1) 70%, 
+        rgba(240,47,23,1) 100%);
 }
 #tecnologias h2{
     color: white;
@@ -222,10 +229,18 @@ footer .fa-linkedin-in{
 }
 
 @media (max-width: 750px){
-    #contacto, #contacto{
+    #contacto, #index{
         background-image: url("../images/fondo-proyectos.png");
         background-repeat: no-repeat;
         background-size: 100%;
+    }
+
+    footer a{
+    color: #E20000;
+    }
+    #index .bienvenido {
+        color: #E20000;
+        border: 1px solid #E20000;
     }
 } 
     

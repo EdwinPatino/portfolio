@@ -54,7 +54,7 @@
                 </div>
             </div>
         </div>
-        <section id="tecnologias" class="pb-4">
+        <section id="tecnologias" class="pb-4 color-gradiente">
             <div class="container">
                 <div class="row">
                         <div class="col-12 mt-5 mb-4">
@@ -219,7 +219,7 @@
                 </div>
                 <div class="col-12 col-sm-6">
                     <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                        <div class="col-2 py-3 my-auto d-block">
                             <img src="images/ecci.png" class="img-fluid">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
@@ -254,7 +254,7 @@
                 </div>
                 <div class="col-12 col-sm-6">
                     <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                        <div class="col-2 py-3 my-auto d-block">
                             <img src="images/uis.png" class="img-fluid">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
@@ -270,7 +270,7 @@
         <section id="idiomas-hobbies">
             <div class="container">
                 <div class="row py-5 mx-0">
-                    <div class=" col-sm-6 col-12 pb-sm-0">
+                    <div class=" col-sm-6 col-12 pb-sm-0 py-2">
                         <div class="row shadow mr-ms-1 me-sm-1">
                             <div class="col-4 tarjeta pt-4 pb-5 text-center">
                                 <i class="fas fa-comment-alt"></i>

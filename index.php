@@ -52,14 +52,14 @@
             </div>
             <div class="row">
                 <div class="col-12 col-sm-6 my-3 mt-sm-5 text-center offset-sm-3">
-                    <div>
+                    <div class="welcome">
                         <p class="bienvenido p-1">Bienvenid@ a mi sitio web sobre desarrollo.</p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-12 text-center">
-                    <a href="proyectos.php" class="btn btn-inicio">Conoce mis proyectos</a>
+                    <a href="proyectos.php" class="btn btn-inicio shadow">Conoce mis proyectos</a>
                 </div>
             </div>
         </div>
