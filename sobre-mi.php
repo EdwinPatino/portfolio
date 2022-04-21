@@ -46,7 +46,7 @@
             <div class="row">
                 <div class="col-12 col-sm-5 mt-4">
                     <h1 class="py-2">Sobre mí</h1>
-                    <p class="py-2">Apasionado por la tecnología y gestión de proyectos. Soy docente de cursos de programación Full Stack y de Base de datos.</p>
+                    <p class="py-2">Soy estudiante de desarrollo full stack en DePC suite, he trabajado en diferentes campos de la tecnología.</p>
                     <a class="btn btn-rojo mt-4" href="contacto.php">Enviar mensaje</a>
                 </div>
                 <div class="col-12 col-sm-3 mt-4 offset-sm-2">
@@ -233,7 +233,7 @@
             </div>
             </div>
         </section>
-        <section id="formacion" class="container">
+        <section id="formacion" class="container mb-5">
             <div class="row">
                 <div class="col-12 pt-5 pb-4">
                     <h2><i class="fas fa-graduation-cap"></i> Cursos de desarrollo profesional</h2>
@@ -265,6 +265,40 @@
                     </div>
                 </div>
             </div>
+            </div>
+        </section>
+        <section id="idiomas-hobbies">
+            <div class="container">
+                <div class="row py-5 mx-0">
+                    <div class=" col-sm-6 col-12 pb-sm-0">
+                        <div class="row shadow mr-ms-1 me-sm-1">
+                            <div class="col-4 tarjeta pt-4 pb-5 text-center">
+                                <i class="fas fa-comment-alt"></i>
+                            </div>
+                            <div class="col-8 p-5">
+                                <h2>IDIOMAS</h2>
+                                <ul>
+                                    <li>ESPAÑOL - Nativo</li>
+                                    <li>INGLÉS - Basic A2</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div> 
+                    <div class="col-sm-6 col-12 pb-sm-0">
+                        <div class="row shadow ms-sm-1 ml-sm-2">
+                            <div class="col-4 tarjeta pt-4 pb-5 text-center">
+                                <i class="fas fa-star"></i>
+                            </div>
+                            <div class="col-8 p-5">
+                                <h2>HOBBIES</h2>
+                                <ul>
+                                    <li>Fútbol</li>
+                                    <li>Video juegos</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div> 
+                </div>
             </div>
         </section>
             

@@ -194,10 +194,35 @@ footer .fa-linkedin-in{
     color: #e20000;
     font-weight: 400;
 }
-
+.shadow{
+    border-radius: 5px;
+}
+#idiomas-hobbies{
+    background-color: #eee;
+}
+.tarjeta{
+    color: white;
+    background-color: #370a6d;
+    font-size: 80px;
+    border-radius: 15px;
+}
+#idiomas-hobbies .shadow{
+    border-radius: 15px;
+    background-color: white;
+}
+#idiomas-hobbies h2{
+    font-size: 16px;
+    font-weight: 500;
+}
+#idiomas-hobbies ul{
+    font-size: 14px;
+    color: #282828;
+    list-style-type: none;
+    padding: 0px;
+}
 
 @media (max-width: 750px){
-    #contacto{
+    #contacto, #contacto{
         background-image: url("../images/fondo-proyectos.png");
         background-repeat: no-repeat;
         background-size: 100%;
