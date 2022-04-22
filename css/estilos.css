@@ -115,15 +115,18 @@ footer .fa-linkedin-in{
     border-radius: 80px;
     margin: 0 8px;
 }
-.footerProyec {
+#proyectos footer, #sobre-mi footer{
     color: #e20000;
 }
-.footerProyec .fa-linkedin-in{
+#proyectos .fa-linkedin-in, #sobre-mi .fa-linkedin-in{
     background-color: #e20000;
     color: white;
 }
-.footerProyec  .fa-github{
+#proyectos  .fa-github, #sobre-mi .fa-github{
     font-size: 30px;
+    color: #e20000;
+}
+#proyectos footer a, #sobre-mi footer a{
     color: #e20000;
 }
 .div-cohete{
