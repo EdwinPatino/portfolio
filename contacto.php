@@ -28,7 +28,7 @@
     //$cabeceras .= 'Bcc: birthdaycheck@example.com' . "\r\n";
 
     // Enviarlo
-    mail($para, $título, $cuerpo, $cabeceras);
+    //mail($para, $título, $cuerpo, $cabeceras);
     header("Location: gracias.php");
   }
 
