@@ -2,7 +2,7 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
-#contacto, #index{
+#contacto, #index, #gracias{
     background-image: url("../images/fondo-contacto.png");
     background-repeat: no-repeat;
     background-size: 100%;
